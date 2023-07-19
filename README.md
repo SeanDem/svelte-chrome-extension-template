@@ -1,11 +1,15 @@
+## New Repository
+
+```bash
+git clone https://github.com/SeanDem/svelte-chrome-extension-template.git
+
+```
 ## Installing Dependencies
 
 ```bash
-# create a new project in the current directory
-npm i
+npm install
 
 ```
-
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`)
