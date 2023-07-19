@@ -16,6 +16,8 @@ Once you've created a project and installed dependencies with `npm install` (or 
 ```bash
 npm run dev
 ```
+
+npm run dev also runs on save if you install the following vscode extension https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave
 ## Building
 
 To create a production version of your app:
