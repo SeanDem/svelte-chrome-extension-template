@@ -1,5 +1,5 @@
-<slot />
-
 <style global>
-	@import "../tailwind.css";
+@import "../tailwind.css";
 </style>
+
+<slot />

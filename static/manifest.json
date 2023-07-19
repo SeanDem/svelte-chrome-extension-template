@@ -1,23 +1,23 @@
 {
-	"name": "Text Replacer",
-	"description": "A browser extension that substitutes text on webpages for you. Made by Sean Demeritt",
+	"name": "Chrome Extension Template",
+	"description": "by Sean Demeritt",
 	"version": "1.0.0",
 	"manifest_version": 3,
-	"permissions": ["storage", "activeTab", "scripting"],
+	"permissions": [],
 	"background": {
 		"service_worker": "service_worker.js"
 	},
 	"icons": {
-		"16": "icons/icon12.png",
-		"48": "icons/icon48.png",
-		"128": "icons/icon128.png"
+		"16": "icons/tempIcon.png",
+		"48": "icons/tempIcon.png",
+		"128": "icons/tempIcon.png"
 	},
 	"action": {
-		"default_title": "Text Replacer",
+		"default_title": "Transform Tex",
 		"default_icon": {
-			"16": "icons/icon12.png",
-			"48": "icons/icon48.png",
-			"128": "icons/icon128.png"
+			"16": "icons/tempIcon.png",
+			"48": "icons/tempIcon.png",
+			"128": "icons/tempIcon.png"
 		},
 		"default_popup": "index.html"
 	}
