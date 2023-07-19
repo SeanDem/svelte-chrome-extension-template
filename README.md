@@ -11,7 +11,7 @@ npm i
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`)
 ```bash
 npm run dev
-
+```
 ## Building
 
 To create a production version of your app:
